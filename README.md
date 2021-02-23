@@ -13,6 +13,8 @@ NOTES:
 
 - Chassis is designed to be cut from 1.6mm thickness sheet metal. 5052 Aluminum is recommended. Steel should work as well, 6061 Aluminum is NOT recommended.
 
+- The cutout next the power jack is for a [power switch](https://www.taydaelectronics.com/rocker-switch-on-off-spst-6a-250vac-panel-mount-snap-in.html).
+
 - Here are some US suppliers for laser-cut metal:
   - [SendCutSend](https://www.sendcutsend.com)
   - [OshCut](https://www.oshcut.com)
